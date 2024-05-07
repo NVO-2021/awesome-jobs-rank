@@ -4,12 +4,12 @@
 为什么呢？原因很简单：找工作并非只是找一个可以发挥你能力的平台，更关键的是找到一个你能在其中取得成功的环境。这就涉及到了我们的主题——信息差。
 
 ## About Me
-> CEO 👉 https://zrank.top/ 
+> CEO 👉 <https://zrank.top>{:target="_blank"} 
 
 ---
 
 ## 🔥 招聘热榜
-### [🚀 V2Ex酷工作](https://www.v2ex.com/?tab=jobs)
+### [🚀 V2Ex酷工作](https://www.v2ex.com/?tab=jobs){:target="_blank"}
 
 > ![alt text](assets/images/v2ex-kgz.png)
 >
@@ -17,7 +17,7 @@
 
 ---
 
-### [🛰️ 阮一峰老师 - 谁还在招人板块](https://github.com/ruanyf/weekly/issues/4204)
+### [🛰️ 阮一峰老师 - 谁还在招人板块](https://github.com/ruanyf/weekly/issues/4204){:target="_blank"}
 
 > ![alt text](assets/images/ryf-shzzr.png)
 >
@@ -25,14 +25,14 @@
 
 ---
 
-### [🦆 电鸭社区](https://eleduck.com/categories/5)
+### [🦆 电鸭社区](https://eleduck.com/categories/5){:target="_blank"}
 >![电鸭社区](assets/images/dysq.png)
 >**一句话总结**：
 >电鸭社区 是一个专注于远程工作招聘和交流的社区。在这里，你可以找到各种远程、外包、零活、兼职、驻场等非主流工作机会。社区鼓励“只工作，不上班”的工作态度，让你从电鸭开始，享受远程工作的便利和自由1。如果你对远程工作感兴趣，不妨去看看这个社区，或许会有适合你的机会哦！
 
 ---
 
-### [✈️ remote-working](https://github.com/greatghoul/remote-working/tree/master/teams)
+### [✈️ remote-working](https://github.com/greatghoul/remote-working/tree/master/teams){:target="_blank"}
 
 > ![alt text](assets/images/remote-working-teams.png)
 >
@@ -40,7 +40,7 @@
 
 ---
 
-### [🌍 remote-working-site](https://github.com/greatghoul/remote-working/blob/f4d46997174e09852830b44fc33aee1e51ca5f01/sites/README.md)
+### [🌍 remote-working-site](https://github.com/greatghoul/remote-working/blob/f4d46997174e09852830b44fc33aee1e51ca5f01/sites/README.md){:target="_blank"}
 
 > ![alt text](assets/images/remote-working-site.png)
 >
@@ -48,7 +48,7 @@
 
 ---
 
-### [🏘️ 远程工作小组 - 豆瓣](https://www.douban.com/group/remoteworking)
+### [🏘️ 远程工作小组 - 豆瓣](https://www.douban.com/group/remoteworking){:target="_blank"}
 
 > ![远程工作小组](assets/images/douban-rmt.png)
 >
@@ -65,7 +65,5 @@
 
 > 如有投稿或合作请联系，并注明来意。 🤝
 
-- 社媒： [<img src="https://abs.twimg.com/responsive-web/client-web/icon-svg.ea5ff4aa.svg" width=7% />](https://twitter.com/KelusTom7386)
-
-- 📧 E-mail : [@Me](gen.lianshan777@gmail.com)
+💬 [Twitter](https://twitter.com/KelusTom7386){:target="_blank"} | <a href="mailto:gen.lianshan777@gmail.com">📧 Email </a>
 
